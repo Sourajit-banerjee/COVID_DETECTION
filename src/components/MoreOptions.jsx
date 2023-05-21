@@ -11,6 +11,7 @@ import ColabIcon from '../assets/icons/ColabIcon';
 // IMPORT VARIABLES
 import {
     COLAB_LINK,
+    COLAB_LINK_COMPARISONS
 } from '../constants/variables';
 
 const options = [
@@ -19,6 +20,11 @@ const options = [
     icon: ColabIcon,
     link: COLAB_LINK,
   },
+  {
+    name:'Model Comparisons',
+    icon: ColabIcon,
+    link:COLAB_LINK_COMPARISONS
+  }
 ];
 
 const MoreOptions = () => {

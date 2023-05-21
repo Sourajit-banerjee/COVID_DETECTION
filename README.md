@@ -161,14 +161,3 @@ Now the frontend will run on <a href="http://127.0.0.1:3000/">http://127.0.0.1:3
 <br />
 Eventually, here is the point that everything is ready and you can start using the the "Covid19-Detector". :slightly_smiling_face:.
 
-
-## :email: **SUPPOERT**
-
-Reach out to me at one of the following places!
-
-- Telegram at <a href="https://t.me/BitterOcean" target="_blank">@BitterOcean</a>
-- Gmail at <a href="mailto:maryamsaeedmehr@gmail.com" target="_blank">maryamsaeedmehr@gmail.com</a>
-
-## :copyright: **LICENSE**
-[![License](https://img.shields.io/packagist/l/doctrine/orm?style=for-the-badge)](http://badges.mit-license.org)
-
